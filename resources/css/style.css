@@ -18,6 +18,7 @@ h4 {
 .container {
   max-width: 960px;
   margin: 0 auto;
+
 }
 
 @media only screen and (max-width: 1024px) {
@@ -31,6 +32,7 @@ h4 {
 .company {
   background-color: black;
   color: white;
+
 }
 
 .company .container {
@@ -42,12 +44,13 @@ h4 {
 .company img {
   height: 1.5em;
   padding-right: 15px;
+
 }
 
 /* Main Banner */
 
 .main-banner {
-  background: url(https://s3.amazonaws.com/codecademy-content/courses/freelance-1/unit-5/moto.jpeg);
+  background: url(../image/moto.jpeg);
   background-repeat: no-repeat;
   background-position: center;
   background-size: cover;
@@ -61,6 +64,7 @@ h4 {
   padding: 2em 3em;
   position: relative;
   top: 9em;
+
 }
 
 .headline h1 {
@@ -143,6 +147,7 @@ nav ul {
 
 .product-image img {
   max-width: 8em;
+
 }
 
 .description {
